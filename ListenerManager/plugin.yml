@@ -1,0 +1,5 @@
+name: ListenerManager
+main: com.github.rom3ox.ListenerManager
+version: 0.1
+author: rom3ox
+description: Listener Manager plugin for override other plugin listeners
