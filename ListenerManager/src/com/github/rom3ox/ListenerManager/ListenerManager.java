@@ -21,6 +21,7 @@ public class ListenerManager extends JavaPlugin {
 		
 		// Register the Event Listeners
 		//pluginManager.registerEvents(new BTPPlayerListener(), this);
+		// Test comment to test GitHub Commits
 	
 	}
 	
